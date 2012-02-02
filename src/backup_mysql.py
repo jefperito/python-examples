@@ -22,6 +22,6 @@ def loop(username, password, database):
 
 if __name__ == '__main__':
     if len(sys.argv) != 4:
-        sys.exit('Número de parâmetros inválidos')
+        sys.exit('Quantidade de parâmetros inválidos')
 
     loop(sys.argv[1], sys.argv[2], sys.argv[3])
