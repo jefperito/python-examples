@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 def registerLinesByWordFound(word):
-    file    = open('texto.txt', 'r', encoding = 'utf-8')
-    fileLog = open('log.txt',   'a', encoding = 'utf-8')
+    file    = open('files/texto.txt', 'r', encoding = 'utf-8')
+    fileLog = open('files/log.txt',   'a', encoding = 'utf-8')
     lines   = file.readlines()
     
     for line in lines:
