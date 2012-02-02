@@ -17,7 +17,6 @@ def loop(username, password, database):
         
         time.sleep(3600) #Durma por uma hora
 
-
 if __name__ == '__main__':
     if len(sys.argv) != 4:
         sys.exit('Quantidade de parâmetros inválidos')
