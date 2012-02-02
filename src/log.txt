@@ -1,0 +1,5 @@
+Encontrado "Lorem Ipsum" na linha: 1
+Encontrado "Lorem Ipsum" na linha: 3
+Encontrado "Lorem Ipsum" na linha: 6
+<<<Análise chegou ao fim do arquivo!>>>
+
